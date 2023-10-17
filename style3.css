@@ -1,0 +1,33 @@
+.email {
+  background-color: lightcyan;
+  width: 185px;
+  height: 25px;
+}
+.name {
+  background-color: lightgreen;
+  width: 190px;
+  height: 25px;
+}
+.lastname {
+  background-color: lightpink;
+  width: 170px;
+  height: 25px;
+}
+.password {
+  background-color: aqua;
+  width: 163px;
+  height: 25px;
+}
+.age {
+  background-color: lightslategray;
+  width: 198px;
+  height: 25px;
+}
+.submit {
+  background-color: aqua;
+  height: 25px;
+}
+form {
+  font-weight: bold;
+  font-style: italic;
+}
